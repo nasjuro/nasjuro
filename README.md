@@ -1,16 +1,53 @@
-## Hi there 👋
+💻 Nasrat Sherzad
 
-<!--
-**nasjuro/nasjuro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud Computing Enthusiast | Aspiring AWS Solutions Architect
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm Nasrat, a Computer Science graduate passionate about cloud computing and scalable solutions. Having earned my AWS Cloud Practitioner certification, I am currently preparing for the AWS Solutions Architect certification to deepen my expertise in AWS services and best practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Key Skills & Expertise
+
+Cloud Computing & AWS ServicesHands-on experience with AWS EC2, S3, Lambda, DynamoDB, and IAM.
+
+Programming & DevelopmentPython, JavaScript, HTML, CSS, and experience with mobile and web development.
+
+Cloud Security & OptimizationImplementing security best practices and anomaly detection frameworks.
+
+Linux Systems & DevOpsFamiliar with Ubuntu and Docker for cloud deployment.
+
+🚀 Current Focus
+
+Advancing my AWS expertise and working towards the AWS Solutions Architect certification.
+
+Building cloud-based projects to strengthen my hands-on experience.
+
+Exploring serverless architectures and AWS best practices.
+
+🌟 Notable Projects
+
+Cloud Security Threat Detection
+
+Developed an anomaly detection framework using Isolation Forest to identify potential cloud threats.
+
+Integrated Docker and AWS S3 for a scalable, real-time solution.
+
+Mobile App Development (E-commerce)
+
+Built a mobile app for a clothing store using Java & Kotlin in Android Studio.
+
+Implemented Google Firebase for secure authentication and cloud storage.
+
+⚡ Hobbies & Interests
+
+🥊 Boxing – Staying active and disciplined.
+
+🎮 Competitive Strategic Gaming – Sharpening problem-solving skills.
+
+🏊 Swimming – Maintaining endurance and focus.
+
+📈 Let's Connect!
+
+LinkedIn: Nasrat Sherzad
+
+Email: nasrat5@proton.me
+
+Feel free to explore my repositories and reach out for collaborations or discussions on cloud computing and AWS!
