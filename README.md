@@ -37,10 +37,10 @@ Welcome to my GitHub profile! I'm Nasrat, a Computer Science graduate passionate
 ---
 
 ## ⚡ Hobbies & Interests
-- 🥊 **Boxing** – Staying active and disciplined.
+- 🥊 **Boxing** – Staying disciplined.
 - 🎮 **Competitive Strategic Gaming** – Sharpening problem-solving skills.
 - 🏊 **Swimming** – Maintaining endurance and focus.
-
+- 💪🏼 **Gym** - Keeping fit and healthy.
 ---
 
 ## 📈 Let's Connect!
